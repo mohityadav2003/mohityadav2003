@@ -19,7 +19,6 @@ I enjoy working on challenging projects, especially those that combine backend m
 
 | Project | Description |
 |--------|-------------|
-| 🧠 [Note-Bay](https://github.com/mohityadav2003/Note-Bay) | Public/Private Suggestion Board with MERN stack and advanced features |
 | ✈️ Airline Management System | Secure flight booking system with admin dashboard, feedback and Razorpay |
 | 📊 Trade Simulator | Simulates trades using real-time crypto order book data and financial models |
 
@@ -45,3 +44,5 @@ I enjoy working on challenging projects, especially those that combine backend m
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
+
+<img src="https://your-domain.com/api/track.gif" width="1" height="1" />
