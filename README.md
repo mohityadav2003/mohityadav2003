@@ -36,8 +36,8 @@ I enjoy working on challenging projects, especially those that combine backend m
 
 - 🌐 [Portfolio Website (coming soon)]()
 - 💼 [LinkedIn](https://linkedin.com/in/mohityadav2003)
-- 🧠 [LeetCode](https://leetcode.com/mohityadav2003)
-- 📬 Email: `mohityadav2003@gmail.com`
+- 🧠 [LeetCode](https://leetcode.com/u/mohit_2003/)
+- 📬 Email: `mohitjb07@gmail.com`
 
 ---
 
